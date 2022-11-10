@@ -1,27 +1,27 @@
-.li{
-   list-style: none;
-   display: inline-block;
+.li {
+  list-style: none;
+  display: inline-block;
 }
 
-#logo{
-    padding-top: 15px;
-    width: 900px;
-    display: flex;
-    justify-content: space-between;
+#logo {
+  padding-top: 15px;
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
 }
-#capa{
-    margin-top: 20px;
+#capa {
+  margin-top: 20px;
 }
-div{
-    margin: 0px auto;
-    width: 900px;
+div {
+  margin: 0px auto;
+  width: 900px;
 }
-h4{
-    text-align: center;
+h4 {
+  text-align: center;
 }
-p{
-    text-align: justify;
+p {
+  text-align: justify;
 }
-header{
-    margin: 0px auto;
+header {
+  margin: 0px auto;
 }
