@@ -10,7 +10,7 @@
     justify-content: space-between;
 }
 #capa{
-    margin-top: 24px;
+    margin-top: 20px;
 }
 div{
     margin: 0px auto;
@@ -21,4 +21,7 @@ h4{
 }
 p{
     text-align: justify;
+}
+header{
+    margin: 0px auto;
 }
