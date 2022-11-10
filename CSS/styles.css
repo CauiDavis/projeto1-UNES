@@ -1,3 +1,8 @@
+* {
+  padding: 0px;
+  margin: 0px;
+
+}
 .li {
   list-style: none;
   display: inline-block;
@@ -10,13 +15,13 @@
   justify-content: space-between;
 }
 #capa {
-  margin-top: 20px;
+  margin-top: 28px;
 }
-div {
+.centralize {
   margin: 0px auto;
   width: 900px;
 }
-h4 {
+.text-h4 {
   text-align: center;
 }
 p {
@@ -24,4 +29,10 @@ p {
 }
 header {
   margin: 0px auto;
+}
+.margin-list{
+  margin-left: 20px;
+}
+.space{
+  margin-bottom: 5px;
 }
